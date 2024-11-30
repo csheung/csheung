@@ -1,4 +1,4 @@
-### Hi there 👋 This is Derrick
+### Hi there 👋 This is Chun Sheung, Derrick
 Software Engineer, Attending CS Master at Northeastern University
 ------------------------
 
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 
 
-- 😎 Hi, I’m Derrick Chun-sheung Ng, Master of Computer Science at Northeastern University
+- 😎 Hi, I’m Chun Sheung Ng (Derrick), Master of Computer Science at Northeastern University
 - 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently learning MERN Stack and SwiftUI
 - 💞️ I’m looking to collaborate on full-stack web/app development
 - 🖥️ See my portfolio at [this link](https://github.com/csheung)
-- 📫 Reach me at ngcs.sde@gmail.com
+- 📫 Reach me at csheung.n@gmail.com
 - ⚡ Fun fact: I love ⛷(see my icon!), 🏀 and 🎥
 
 
